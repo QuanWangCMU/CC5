@@ -1,2 +1,2 @@
 # CC5
-hello geekers!
+hello geeks!
